@@ -10,3 +10,10 @@ AutoML is an automated machine learning framework that simplifies the process of
 - **Scalable:** Supports parallel processing for faster model training and evaluation.
 
 # My work is in **KNN.ipynb** File #
+
+![Screenshot1](https://i.ibb.co/FqW8tqS/Screenshot-2024-05-14-110122.png)
+![Screenshot2](https://i.ibb.co/Qdy58h1/Screenshot-2024-05-14-110030.png)
+
+![Screenshot3](https://i.ibb.co/hyTD3z8/Screenshot-2024-05-14-110051.png)
+
+
