@@ -12,7 +12,7 @@ To install AutoML, simply clone the repository from GitHub and follow the instru
 
 ## Usage
 
-Once installed, you can leverage AutoML's features through its intuitive interface. Whether you're tackling classification, regression, or clustering tasks, AutoML has got you covered. Customize your models with specific constraints, objectives, and preferences to tailor them to your needs.
+Once installed, you can leverage AutoML's features through its intuitive interface. Whether you're tackling classification  and  regression  tasks, AutoML has got you covered. Customize your models with specific constraints, objectives, and preferences to tailor them to your needs.
 
 ## Additional Resources
 
@@ -20,7 +20,7 @@ For further exploration and mastering of AutoML, check out the documentation and
 
 # KNN.ipynb
 
-Explore the power of AutoML through the **KNN.ipynb** file. Dive into the notebook to see how AutoML simplifies the implementation of K-Nearest Neighbors algorithm, providing insights and performance metrics at your fingertips.
+Explore the power of AutoML through the **KNN.ipynb** file. Dive into the notebook to see how AutoML simplifies the implementation of Different Different  algorithm, providing  performance metrics at your fingertips.
 
 # AutoML_With_Json Web Application
 
