@@ -38,4 +38,4 @@ Experience the convenience of AutoML through our web application, AutoML_With_Js
 
 Feel free to reach out if you have any questions or need assistance. Happy modeling with AutoML!
 
-[Link to your AutoML model on Hugging Face](https://huggingface.co/spaces/GauravSingh72388/AutoML_With_Json)
+[Link to Open AutoML model on Hugging Face](https://huggingface.co/spaces/GauravSingh72388/AutoML_With_Json)
