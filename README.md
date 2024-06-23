@@ -1,6 +1,3 @@
-# AutoML: Automated Machine Learning Framework
-
-Welcome to AutoML, your automated machine learning companion! This framework simplifies the arduous journey of building and deploying machine learning models, making it accessible to everyone, from novices to seasoned data scientists. Below is a comprehensive guide to get you started with AutoML.
 
 ## Overview
 
@@ -12,11 +9,11 @@ To install AutoML, simply clone the repository from GitHub and follow the instru
 
 ## Usage
 
-Once installed, you can leverage AutoML's features through its intuitive interface. Whether you're tackling classification  and  regression  tasks, AutoML has got you covered. Customize your models with specific constraints, objectives, and preferences to tailor them to your needs.
+Once installed, you can leverage AutoML's features through its intuitive interface. Whether you're tackling classification  and  regression  tasks, AutoML has got you covered. just givng by a jsone file its give you report based on problem statement(classification  and  regression  tasks).
 
 ## Additional Resources
 
-For further exploration and mastering of AutoML, check out the documentation and examples provided in the repository. Join our community to collaborate with other enthusiasts and stay updated on the latest developments in automated machine learning.
+For further exploration and mastering of AutoML, check out the documentation and examples provided in the repository.
 
 # KNN.ipynb
 
@@ -38,4 +35,4 @@ Experience the convenience of AutoML through our web application, AutoML_With_Js
 
 Feel free to reach out if you have any questions or need assistance. Happy modeling with AutoML!
 
-[Link to Open AutoML model on Hugging Face](https://huggingface.co/spaces/GauravSingh72388/AutoML_With_Json)
+[Open AutoML model on Hugging Face](https://huggingface.co/spaces/GauravSingh72388/AutoML_With_Json)
